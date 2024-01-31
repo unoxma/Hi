@@ -1,2 +1,4 @@
 pumpkin
 cabbage
+cucumber
+potato
