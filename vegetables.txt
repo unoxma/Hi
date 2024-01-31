@@ -2,3 +2,5 @@ pumpkin
 cabbage
 cucumber
 potato
+cherry
+watermelon
